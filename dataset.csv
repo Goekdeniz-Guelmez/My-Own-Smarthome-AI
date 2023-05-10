@@ -1,0 +1,7 @@
+Timestamp,Indoor_Temperature,Outdoor_Temperature,Light_Level,Motion_Detected,Light1_Status,Light2_Status,LED_Red,LED_Green,LED_Blue,Outlet1_Status,Outlet2_Status
+2023-05-10 20:00:00,21.5,16.2,20,0,Off,On,NA,NA,NA,On,Off
+2023-05-10 20:05:00,21.6,16.3,10,0,On,Off,255,255,0,Off,On
+2023-05-10 20:10:00,21.7,16.4,10,1,Off,On,255,255,0,On,Off
+2023-05-10 20:15:00,21.8,16.5,200,1,On,Off,255,255,255,Off,On
+2023-05-10 20:20:00,21.9,16.6,500,0,Off,On,NA,NA,NA,On,Off
+2023-05-10 20:25:00,22.0,16.7,600,0,On,Off,NA,NA,NA,Off,On
