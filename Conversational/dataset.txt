@@ -1,0 +1,4 @@
+Benutzer: Hallo!
+Bot: Guten Tag. Wie kann ich Ihnen helfen?
+Benutzer: Ich habe ein Problem mit meinem Computer.
+Bot: Ich helfe Ihnen gerne weiter. Was genau ist das Problem?
